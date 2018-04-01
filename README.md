@@ -6,7 +6,7 @@ creating a heterogeneous cluster using ancient hardware. Software/simulations wi
 ### Cloud Computing
 > create a cloud based service for something. idk we have a wifi router that we could probaly use to broadcast a private network
 ### AI
-> really crappy tensorflow (CPU only)
+> The most over-engineered chatbot ever
 ### Rendering
 > Simulations, such as fluid, quantum, etc
 ### Computational Mathematics
